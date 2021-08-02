@@ -1,1 +1,29 @@
 https://makecode.com/_DP1f1RbwVf64
+
+
+Starting Code number 
+
+Core interations.
+
+    Player Entity
+        Ship Sprite
+
+        Action 
+            Move WASD
+            Shoot the Target
+
+
+    Target Entity
+        Spawn   Goes down the sreen.
+        
+        If hits  the Player
+            Loses 1 Heart
+                If hearts are left the User is invulnerable.
+
+            If out of hearts the game is over
+
+            
+
+        If hit by the laser
+            Target Disappears 
+            Score would go up.
