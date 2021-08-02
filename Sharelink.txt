@@ -6,16 +6,16 @@ Starting Code number
 Core interations.
 
     Player Entity
-        Ship Sprite
+        Ship Sprite   --- Complete
 
         Action 
-            Move WASD
-            Shoot the Target
+            Move WASD -- Complete
+            Shoot the Target --- Complete
 
 
-    Target Entity
+    Target Entity -- Assets added no spawning in..
         Spawn   Goes down the sreen.
-        
+
         If hits  the Player
             Loses 1 Heart
                 If hearts are left the User is invulnerable.
