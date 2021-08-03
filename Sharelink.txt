@@ -13,8 +13,8 @@ Core interations.
             Shoot the Target --- Complete
 
 
-    Target Entity -- Assets added no spawning in..
-        Spawn   Goes down the sreen.
+    Target Entity -- Assets added no spawning in.. --- Complete
+        Spawn   Goes down the sreen. -- Complete 
 
         If hits  the Player
             Loses 1 Heart
@@ -24,6 +24,6 @@ Core interations.
 
             
 
-        If hit by the laser
+        If hit by the laser -- Complete
             Target Disappears 
             Score would go up.
